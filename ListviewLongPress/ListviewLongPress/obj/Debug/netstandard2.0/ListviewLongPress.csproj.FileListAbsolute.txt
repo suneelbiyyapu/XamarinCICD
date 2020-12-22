@@ -1,0 +1,15 @@
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\obj\Debug\netstandard2.0\ListviewLongPress.csprojAssemblyReference.cache
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\obj\Debug\netstandard2.0\ListviewLongPress.AssemblyInfoInputs.cache
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\obj\Debug\netstandard2.0\ListviewLongPress.AssemblyInfo.cs
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\obj\Debug\netstandard2.0\ListviewLongPress.csproj.CoreCompileInputs.cache
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\obj\Debug\netstandard2.0\ListviewLongPress.dll
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\obj\Debug\netstandard2.0\ref\ListviewLongPress.dll
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\obj\Debug\netstandard2.0\ListviewLongPress.pdb
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\bin\Debug\netstandard2.0\ListviewLongPress.deps.json
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\bin\Debug\netstandard2.0\ListviewLongPress.dll
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\bin\Debug\netstandard2.0\ref\ListviewLongPress.dll
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\bin\Debug\netstandard2.0\ListviewLongPress.pdb
+C:\Users\1027539\Documents\Coding\Xamarin\ListviewLongPress\ListviewLongPress\ListviewLongPress\obj\Debug\netstandard2.0\XamlC.stamp
